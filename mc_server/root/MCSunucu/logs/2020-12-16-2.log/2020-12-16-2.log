@@ -1,0 +1,316 @@
+[14:38:12] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[14:38:12] [Server thread/INFO]: Loading properties
+[14:38:12] [Server thread/INFO]: Default game type: SURVIVAL
+[14:38:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[14:38:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:38:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:38:13] [Server thread/INFO]: Debug logging is disabled
+[14:38:13] [Server thread/INFO]: Generating keypair
+[14:38:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:38:13] [Server thread/INFO]: Using epoll channel type
+[14:38:14] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:38:14] [Server thread/INFO]: [Ping] Loading Ping v1.5.2
+[14:38:14] [Server thread/INFO]: [Skript] Loading Skript v2.1.2
+[14:38:14] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0-dev+24-f320705
+[14:38:14] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.19.0-dev+24-f320705
+[14:38:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:38:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:38:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:38:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:38:14] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:38:14] [Server thread/INFO]: Preparing level "world"
+[14:38:14] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:38:14] [Server thread/INFO]: Anti X-Ray: true
+[14:38:14] [Server thread/INFO]: 	Engine Mode: 1
+[14:38:14] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:38:14] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:38:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:38:14] [Server thread/INFO]: Mob Spawn Range: 4
+[14:38:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:38:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:38:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:38:14] [Server thread/INFO]: Random Lighting Updates: false
+[14:38:14] [Server thread/INFO]: Structure Info Saving: true
+[14:38:14] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:38:14] [Server thread/INFO]: Max Entity Collisions: 8
+[14:38:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:38:14] [Server thread/INFO]: Max TNT Explosions: 100
+[14:38:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:38:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:38:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:38:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:38:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:38:14] [Server thread/INFO]: View Distance: 10
+[14:38:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:38:14] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:38:14] [Server thread/INFO]: Clear tick list: false
+[14:38:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:38:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:38:14] [Server thread/INFO]: Anti X-Ray: true
+[14:38:14] [Server thread/INFO]: 	Engine Mode: 1
+[14:38:14] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:38:14] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:38:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:38:14] [Server thread/INFO]: Mob Spawn Range: 4
+[14:38:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:38:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:38:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:38:14] [Server thread/INFO]: Random Lighting Updates: false
+[14:38:14] [Server thread/INFO]: Structure Info Saving: true
+[14:38:14] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:38:14] [Server thread/INFO]: Max Entity Collisions: 8
+[14:38:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:38:14] [Server thread/INFO]: Max TNT Explosions: 100
+[14:38:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:38:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:38:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:38:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:38:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:38:14] [Server thread/INFO]: View Distance: 10
+[14:38:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:38:14] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:38:14] [Server thread/INFO]: Clear tick list: false
+[14:38:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:38:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:38:14] [Server thread/INFO]: Anti X-Ray: true
+[14:38:14] [Server thread/INFO]: 	Engine Mode: 1
+[14:38:14] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:38:14] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:38:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:38:14] [Server thread/INFO]: Mob Spawn Range: 4
+[14:38:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:38:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:38:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:38:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:38:14] [Server thread/INFO]: Random Lighting Updates: false
+[14:38:14] [Server thread/INFO]: Structure Info Saving: true
+[14:38:14] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:38:14] [Server thread/INFO]: Max Entity Collisions: 8
+[14:38:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:38:14] [Server thread/INFO]: Max TNT Explosions: 100
+[14:38:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:38:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:38:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:38:14] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:38:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:38:14] [Server thread/INFO]: View Distance: 10
+[14:38:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:38:14] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:38:14] [Server thread/INFO]: Clear tick list: false
+[14:38:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:38:14] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4292815802130123635)
+[14:38:15] [Server thread/INFO]: Preparing spawn area: 14%
+[14:38:16] [Server thread/INFO]: Preparing spawn area: 99%
+[14:38:16] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4292815802130123635)
+[14:38:16] [Thread-8/INFO]: UUID of player xr4zz3rs is 830dbdf4-9397-3229-8fda-52beba5a5d94
+[14:38:17] [Server thread/INFO]: Preparing spawn area: 54%
+[14:38:18] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4292815802130123635)
+[14:38:18] [Server thread/INFO]: [Ping] Enabling Ping v1.5.2
+[14:38:20] [Server thread/INFO]: [Skript] Enabling Skript v2.1.2
+[14:38:22] [Server thread/INFO]: [Skript] Loaded a total of 11504 english aliases
+[14:38:22] [Server thread/WARN]: [Skript] There are no aliases defined for the following ids: 165, 166, 167, 168, 169, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 409, 410, 411, 412, 413, 414, 415, 416, 423, 424, 425, 427, 428, 429, 430, 431
+[14:38:22] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[14:38:22] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0-dev+24-f320705
+[14:38:22] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[14:38:22] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[14:38:22] [Server thread/INFO]: No kits found to migrate.
+[14:38:22] [Server thread/INFO]: Loaded 852 items from items.csv.
+[14:38:22] [Server thread/INFO]: Using locale en_US
+[14:38:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:38:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:38:22] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:38:22] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.19.0-dev+24-f320705
+[14:38:22] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[14:38:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:38:22] [Server thread/INFO]: Done (8.343s)! For help, type "help" or "?"
+[14:38:22] [Craft Scheduler Thread - 0/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m Checking for the latest version of Skript...[m
+[14:38:22] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[14:38:22] [Server thread/WARN]: [Skript] No scripts were found, maybe you should write some ;) (config.sk, line 141: databases:')
+[14:38:22] [Server thread/INFO]: [Skript] Finished loading.
+[14:38:23] [Server thread/INFO]: xr4zz3rs[/78.164.52.36:42076] logged in with entity id 441 at ([world]-75.72596362027983, 94.58453626560241, 428.87465496302775)
+[14:38:23] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m [0;31;22m[0;31;22mThere was an error checking for the latest version of Skript:[0;31;1m Server returned HTTP response code: 403 for URL: http://dev.bukkit.org/server-mods/skript/files.rss[m
+[14:38:23] [Skript update thread/INFO]: [0;37;22m[[0;33;22mSkript[0;37;22m][m You're currently running the latest stable version of Skript.[m
+[14:38:34] [Server thread/INFO]: xr4zz3rs issued server command: /pinhg
+[14:38:35] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:37] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:37] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:37] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:37] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:38] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:38] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:43] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:44] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:44] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:45] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:46] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:46] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:46] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:47] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:38:47] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:40:36] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:42:13] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:50:35] [Server thread/INFO]: xr4zz3rs issued server command: /lightning
+[14:51:10] [Server thread/INFO]: xr4zz3rs issued server command: /top
+[14:51:32] [Server thread/INFO]: xr4zz3rs issued server command: /block
+[14:51:35] [Server thread/INFO]: xr4zz3rs issued server command: /blockdata
+[14:51:44] [Server thread/INFO]: xr4zz3rs issued server command: /blockdata 0 0 0 cobblestone
+[14:51:44] [Server thread/INFO]: [xr4zz3rs: Cannot change block outside of the world]
+[14:51:51] [Server thread/INFO]: xr4zz3rs issued server command: /tp 0 0 0
+[14:52:00] [Server thread/INFO]: xr4zz3rs issued server command: /tp 0 0 0
+[14:52:02] [Server thread/INFO]: xr4zz3rs issued server command: /tp 0 0 0
+[14:52:03] [Server thread/INFO]: xr4zz3rs issued server command: /blockdata 0 0 0 cobblestone
+[14:52:03] [Server thread/INFO]: [xr4zz3rs: The target block is not a data holder block]
+[14:52:25] [Server thread/INFO]: xr4zz3rs issued server command: /tp -999 -999 -999
+[14:52:35] [Server thread/INFO]: xr4zz3rs fell out of the world
+[14:52:43] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 -99 9
+[14:52:46] [Server thread/INFO]: xr4zz3rs fell out of the world
+[14:52:50] [Server thread/INFO]: xr4zz3rs issued server command: /gm 1
+[14:52:55] [Server thread/INFO]: xr4zz3rs issued server command: /health
+[14:52:58] [Server thread/INFO]: xr4zz3rs issued server command: /head
+[14:53:00] [Server thread/INFO]: xr4zz3rs issued server command: /heal
+[14:53:03] [Server thread/INFO]: xr4zz3rs issued server command: /heal xr4zz3rs
+[14:53:09] [Server thread/INFO]: xr4zz3rs issued server command: /tp -999 -999 100
+[14:53:18] [Server thread/INFO]: xr4zz3rs fell out of the world
+[14:53:30] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 -99 100
+[14:53:33] [Server thread/INFO]: xr4zz3rs fell out of the world
+[14:53:39] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 100
+[14:53:52] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -99
+[14:53:58] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -9999
+[14:54:23] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -948639
+[14:54:53] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:54:55] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:54:57] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:54:57] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:54:59] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:55:00] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:55:05] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -999999999
+[14:55:09] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -99999
+[14:55:19] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -999999
+[14:55:29] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -9999999
+[14:56:02] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -99999999
+[14:56:20] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -99999991
+[14:56:21] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -99999995
+[14:56:23] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -9999999
+[14:56:26] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -99999999
+[14:56:38] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -300000000
+[14:56:40] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -30000000
+[14:56:50] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -30000000
+[14:56:59] [Server thread/INFO]: xr4zz3rs issued server command: /ping
+[14:57:09] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -30000000
+[14:57:16] [Server thread/INFO]: xr4zz3rs issued server command: /tp -99 100 -30000000
+[15:04:25] [Thread-12/INFO]: UUID of player Leeann is ce56b90d-627d-3dce-8ad1-8ddf6cfcd970
+[15:04:25] [Server thread/INFO]: Leeann[/130.185.73.131:45642] logged in with entity id 27179 at ([world]-25.5, 74.0, 265.5)
+[15:04:25] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/ce56b90d-627d-3dce-8ad1-8ddf6cfcd970.yml
+[15:04:26] [Server thread/INFO]: xr4zz3rs issued server command: /tp xr4zz3rs
+[15:04:27] [Thread-13/INFO]: UUID of player Ashla is 4e0e7a93-bd36-30d0-8da1-b4b913500034
+[15:04:27] [Server thread/INFO]: Ashla[/109.69.0.68:36340] logged in with entity id 27525 at ([world]-23.5, 81.0, 272.5)
+[15:04:27] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/4e0e7a93-bd36-30d0-8da1-b4b913500034.yml
+[15:04:27] [Thread-14/INFO]: UUID of player Erda is 245f8df6-e9f8-38bf-b500-3eaf7049a3a9
+[15:04:27] [Server thread/INFO]: Erda[/168.196.192.114:46518] logged in with entity id 27702 at ([world]-8.5, 72.0, 258.5)
+[15:04:27] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/245f8df6-e9f8-38bf-b500-3eaf7049a3a9.yml
+[15:04:28] [Server thread/INFO]: xr4zz3rs issued server command: /tp Leeann
+[15:04:28] [Thread-15/INFO]: UUID of player Dorgan is 50a7455e-4e36-3ef4-968d-6f9cd6e891c4
+[15:04:28] [Server thread/INFO]: Dorgan[/79.120.177.106:46434] logged in with entity id 27828 at ([world]-11.5, 72.0, 260.5)
+[15:04:29] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/50a7455e-4e36-3ef4-968d-6f9cd6e891c4.yml
+[15:04:29] [Thread-16/INFO]: UUID of player Elsinore is c84e027e-86b0-368a-8110-a5e08260974e
+[15:04:29] [Server thread/INFO]: Elsinore[/120.27.223.186:56644] logged in with entity id 27860 at ([world]-15.5, 71.0, 270.5)
+[15:04:29] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/c84e027e-86b0-368a-8110-a5e08260974e.yml
+[15:04:29] [Thread-17/INFO]: UUID of player Margaret is d3538aa6-92ac-3d78-b8d7-97f4876e8ad4
+[15:04:29] [Server thread/INFO]: Margaret[/180.250.180.66:54547] logged in with entity id 27911 at ([world]-11.5, 71.0, 272.5)
+[15:04:29] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/d3538aa6-92ac-3d78-b8d7-97f4876e8ad4.yml
+[15:04:36] [Thread-18/INFO]: UUID of player Barbe is e58e0731-d58e-3366-adb7-480a5974e94f
+[15:04:36] [Server thread/INFO]: Barbe[/177.130.25.76:37657] logged in with entity id 28142 at ([world]-17.5, 71.0, 270.5)
+[15:04:36] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/e58e0731-d58e-3366-adb7-480a5974e94f.yml
+[15:04:37] [Thread-19/INFO]: UUID of player Phylis is a62e1be2-08f5-3655-a476-7cbbf75fdf6a
+[15:04:37] [Server thread/INFO]: Phylis[/104.168.218.91:35308] logged in with entity id 28222 at ([world]-9.5, 71.0, 274.5)
+[15:04:37] [Thread-20/INFO]: UUID of player Jermaine is 0dc61d92-5a27-3247-a993-e5c9f7a886cb
+[15:04:37] [Server thread/INFO]: Jermaine[/165.232.32.173:49969] logged in with entity id 28225 at ([world]-6.5, 72.0, 269.5)
+[15:04:37] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/a62e1be2-08f5-3655-a476-7cbbf75fdf6a.yml
+[15:04:38] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/0dc61d92-5a27-3247-a993-e5c9f7a886cb.yml
+[15:04:39] [Thread-21/INFO]: UUID of player Sibylla is 3766d88c-7662-3a4f-9d6d-1fb3a802d7f9
+[15:04:39] [Server thread/INFO]: Sibylla[/114.5.97.138:60066] logged in with entity id 28282 at ([world]-12.5, 76.0, 264.5)
+[15:04:39] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/3766d88c-7662-3a4f-9d6d-1fb3a802d7f9.yml
+[15:04:40] [Thread-22/INFO]: UUID of player Dosi is 1ab52e54-ca9a-3f57-949f-4636e90d8972
+[15:04:40] [Server thread/INFO]: Dosi[/103.145.57.171:43391] logged in with entity id 28297 at ([world]-14.5, 71.0, 272.5)
+[15:04:40] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/1ab52e54-ca9a-3f57-949f-4636e90d8972.yml
+[15:04:43] [Server thread/INFO]: Ashla lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[15:04:43] [Server thread/INFO]: Ashla left the game.
+[15:04:43] [Server thread/INFO]: Jermaine lost connection: Disconnected
+[15:04:43] [Server thread/INFO]: Jermaine left the game.
+[15:04:44] [Server thread/INFO]: Dorgan lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[15:04:44] [Server thread/INFO]: Dorgan left the game.
+[15:04:44] [Server thread/INFO]: Sibylla lost connection: Disconnected
+[15:04:44] [Server thread/INFO]: Sibylla left the game.
+[15:04:44] [Server thread/INFO]: Erda lost connection: Disconnected
+[15:04:44] [Server thread/INFO]: Erda left the game.
+[15:04:44] [Server thread/INFO]: Barbe lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[15:04:44] [Server thread/INFO]: Barbe left the game.
+[15:04:44] [Server thread/INFO]: Phylis lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[15:04:44] [Server thread/INFO]: Phylis left the game.
+[15:04:44] [Server thread/INFO]: Dosi lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[15:04:44] [Server thread/INFO]: Dosi left the game.
+[15:04:44] [Server thread/INFO]: Leeann lost connection: Disconnected
+[15:04:44] [Server thread/INFO]: Leeann left the game.
+[15:04:44] [Server thread/INFO]: Margaret lost connection: Disconnected
+[15:04:44] [Server thread/INFO]: Margaret left the game.
+[15:04:44] [Server thread/INFO]: Elsinore lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[15:04:44] [Server thread/INFO]: Elsinore left the game.
+[15:05:18] [Async Chat Thread - #0/INFO]: [m<[0;31;22mxr4zz3rs[m> --**[m
+[15:06:51] [Async Chat Thread - #1/INFO]: [m<[0;31;22mxr4zz3rs[m> s[m
+[15:11:25] [Server thread/INFO]: xr4zz3rs issued server command: /clear
+[15:11:28] [Server thread/INFO]: xr4zz3rs issued server command: /clear *
+[15:11:30] [Server thread/INFO]: xr4zz3rs issued server command: /clear all
+[15:11:33] [Server thread/INFO]: xr4zz3rs issued server command: /clear @a
+[15:11:34] [Server thread/INFO]: xr4zz3rs issued server command: /clear @a
+[15:11:35] [Server thread/INFO]: xr4zz3rs issued server command: /clear @a
+[15:11:36] [Server thread/INFO]: xr4zz3rs issued server command: /clear @all
+[15:11:40] [Server thread/INFO]: xr4zz3rs issued server command: /clear aoll
+[15:11:43] [Server thread/INFO]: xr4zz3rs issued server command: /clear player
+[15:11:45] [Server thread/INFO]: xr4zz3rs issued server command: /clear @p
+[15:11:53] [Server thread/INFO]: xr4zz3rs issued server command: /invsee xr4zz3rs
+[15:13:01] [Thread-23/INFO]: UUID of player Lanuage is 994f0c03-d8c4-3da1-9f67-a0d67f2281e0
+[15:13:01] [Server thread/INFO]: Lanuage[/180.250.180.66:59377] logged in with entity id 30091 at ([world]-14.5, 71.0, 263.5)
+[15:13:01] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/994f0c03-d8c4-3da1-9f67-a0d67f2281e0.yml
+[15:13:05] [Thread-24/INFO]: UUID of player Marysa is ce9b2402-8830-357f-9245-296621f0948e
+[15:13:05] [Server thread/INFO]: Marysa[/120.27.223.186:60036] logged in with entity id 30339 at ([world]-13.5, 71.0, 269.5)
+[15:13:05] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/ce9b2402-8830-357f-9245-296621f0948e.yml
+[15:13:05] [Thread-25/INFO]: UUID of player Sheba is ca5715d1-8596-3a50-a217-220257a08e09
+[15:13:06] [Server thread/INFO]: Sheba[/36.91.128.65:39574] logged in with entity id 30385 at ([world]-16.5, 71.0, 259.5)
+[15:13:06] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/ca5715d1-8596-3a50-a217-220257a08e09.yml
+[15:13:06] [Thread-26/INFO]: UUID of player Jyoti is c7f5dd61-8b93-3b6b-ae1b-89ffa02e404e
+[15:13:06] [Server thread/INFO]: Jyoti[/118.99.104.15:55859] logged in with entity id 30409 at ([world]-11.5, 76.0, 267.5)
+[15:13:06] [pool-5-thread-1/INFO]: Creating empty config: /root/MCSunucu/plugins/Essentials/userdata/c7f5dd61-8b93-3b6b-ae1b-89ffa02e404e.yml
+[15:13:07] [Server thread/INFO]: Jyoti lost connection: Internal Exception: java.io.IOException: Error while write(...): Connection reset by peer
+[15:13:07] [Server thread/INFO]: Jyoti left the game.
+[15:13:07] [Server thread/INFO]: Sheba lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[15:13:07] [Server thread/INFO]: Sheba left the game.
+[15:13:07] [Server thread/INFO]: Lanuage lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[15:13:07] [Server thread/INFO]: Lanuage left the game.
+[15:13:07] [Server thread/INFO]: Marysa lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[15:13:07] [Server thread/INFO]: Marysa left the game.
+[15:13:25] [Async Chat Thread - #2/INFO]: [m<[0;31;22mxr4zz3rs[m> sdfsd[m
+[15:40:48] [Server thread/INFO]: xr4zz3rs lost connection: Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer
+[15:40:48] [Server thread/INFO]: xr4zz3rs left the game.

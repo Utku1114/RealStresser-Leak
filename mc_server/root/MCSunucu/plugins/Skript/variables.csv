@@ -1,0 +1,11 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.1.2
+
+"kill counter.<player>.kills_session", long, 0000000000000000
+"kill counter.<player>.kills_session_max", long, 0000000000000000
+"kill counter.<player>.kills_total", long, 0000000000000000
+"kill counter.xr4zz3rs.kills_session", double, 4008000000000000
+"kill counter.xr4zz3rs.kills_total", double, 4008000000000000
+
